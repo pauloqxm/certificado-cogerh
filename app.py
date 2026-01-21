@@ -171,6 +171,7 @@ def main():
             <li>Se desejar, selecione o <b>evento</b> e/ou <b>data</b> específicos</li>
             <li>Clique em <b>"Buscar Certificado"</b></li>
             <li>Se encontrado, clique no botão para visualizar ou baixar</li>
+            <li><b>ATENÇÃO:</b> caso não encontre o certificado, entre em contato com a gerência realizadora</li>
         </ol>
     </div>
     """, unsafe_allow_html=True)
@@ -357,8 +358,7 @@ def main():
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #6B7280; font-size: 14px;">
-    <p>COGERH - Companhia de Gestão dos Recursos Hídricos do Ceará</p>
-    <p>Desenvolvido com Streamlit • Dados atualizados automaticamente</p>
+    <p>COGERH - Companhia de Gestão dos Recursos Hídricos do Ceará</p>    
 </div>
 """, unsafe_allow_html=True)
 
