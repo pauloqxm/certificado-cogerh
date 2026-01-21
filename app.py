@@ -6,7 +6,7 @@ from io import StringIO
 
 # Configuração da página
 st.set_page_config(
-    page_title="Certificados do Curso",
+    page_title="Certificados COGERH",
     page_icon="🎓",
     layout="centered"
 )
