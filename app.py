@@ -75,7 +75,7 @@ section[data-testid="stSidebar"] { display: none; }
     background: #ffffff;
     border: 1px solid rgba(15,23,42,.10);
     border-radius: 14px;
-    padding: 1px 18px;
+    padding: 0px 18px;
     box-shadow: 0 8px 18px rgba(2,6,23,.05);
     margin: 12px 0;
 }
