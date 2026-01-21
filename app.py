@@ -39,6 +39,7 @@ section[data-testid="stSidebar"] { display: none; }
     background: linear-gradient(90deg, #0B1F4B 0%, #143A8B 45%, #0B1F4B 100%);
     box-shadow: 0 10px 22px rgba(0,0,0,.08);
     margin-bottom: 18px;
+    margin: 1.5rem auto; 
 }
 .brandbar .topline{
     display:flex;
